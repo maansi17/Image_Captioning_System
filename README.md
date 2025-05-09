@@ -1,4 +1,4 @@
-# 🖼️ Image_Captioning_System — VGG16 & DenseNet121 Based Models
+#  Image_Captioning_System — VGG16 & DenseNet121 Based Models
 
 **Automated Image Captioning and Detailed Description System (VGG16 & DenseNet121)**
 
@@ -6,17 +6,17 @@ This project implements a deep learning-based system to automatically generate c
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 
-- 🔍 **CNN-based Feature Extraction** using VGG16 and DenseNet121
-- 🧠 **LSTM Decoder** for generating sequential word-based captions
-- 🎯 **Attention Mechanism** to focus on relevant image regions
-- 🧪 Evaluated using **BLEU-1** and **BLEU-2** scores
-- 💻 **GUI Interface** built with Tkinter for interactive testing and comparison
+-  **CNN-based Feature Extraction** using VGG16 and DenseNet121
+-  **LSTM Decoder** for generating sequential word-based captions
+-  **Attention Mechanism** to focus on relevant image regions
+-  Evaluated using **BLEU-1** and **BLEU-2** scores
+-  **GUI Interface** built with Tkinter for interactive testing and comparison
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 **Flickr_8k Dataset**
 - 8,000+ images
@@ -25,7 +25,7 @@ This project implements a deep learning-based system to automatically generate c
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - TensorFlow / Keras
@@ -36,7 +36,7 @@ This project implements a deep learning-based system to automatically generate c
 
 ---
 
-## 📊 BLEU Score Comparison
+## BLEU Score Comparison
 
 | Model       | BLEU-1     | BLEU-2     |
 |-------------|------------|------------|
